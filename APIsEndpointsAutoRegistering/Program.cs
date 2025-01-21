@@ -2,6 +2,7 @@ namespace APIsEndpointsAutoRegistering
 {
     public class Program
     {
+        //This is some test for qodo merge tool
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
